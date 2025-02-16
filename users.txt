@@ -1,0 +1,4 @@
+admin,admin123,admin
+manager1,pass123,manager
+chef1,chefpass,chef
+customer1,custpass,customer
