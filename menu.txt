@@ -1,0 +1,19 @@
+Pizza,600
+Burger,500
+Samosa,100
+Momo,200
+Tea,10
+French Fries,150
+Sekuwa,400
+Pani Puri,120
+Hot Dog,350
+Chowmein,250
+Doughnut,180
+Gulab Jamun,160
+Juju Dhau,200
+Milkshake,250
+Thukpa,300
+Ice Cream Sundae,300
+Chocolate Brownie,350
+Cold Coffee,220
+Cola,150

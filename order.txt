@@ -1,0 +1,5 @@
+customer1,Pizza,600,2,Completed
+customer1,Burger,500,1,Completed
+customer1,Pizza,600,2,Completed
+customer1,Burger,500,2,In Progress
+customer1,Samosa,100,2,In Progress
